@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="412853" started-at="2020-07-30T16:52:15Z" finished-at="2020-07-30T16:59:08Z">
+  <suite name="Default suite" duration-ms="394598" started-at="2020-07-30T17:50:46Z" finished-at="2020-07-30T17:57:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="412853" started-at="2020-07-30T16:52:15Z" finished-at="2020-07-30T16:59:08Z">
+    <test name="Default test" duration-ms="394598" started-at="2020-07-30T17:50:46Z" finished-at="2020-07-30T17:57:21Z">
       <class name="org.task.testcases.NoBrokerApplicationTask">
-        <test-method status="PASS" signature="beforeSuiteRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="beforeSuiteRun" is-config="true" duration-ms="1279" started-at="2020-07-30T16:52:14Z" finished-at="2020-07-30T16:52:15Z">
+        <test-method status="PASS" signature="beforeSuiteRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="beforeSuiteRun" is-config="true" duration-ms="169" started-at="2020-07-30T17:50:46Z" finished-at="2020-07-30T17:50:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuiteRun -->
-        <test-method status="PASS" signature="provideData()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="provideData" is-config="true" duration-ms="1" started-at="2020-07-30T16:52:15Z" finished-at="2020-07-30T16:52:15Z">
+        <test-method status="PASS" signature="provideData()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="provideData" is-config="true" duration-ms="1" started-at="2020-07-30T17:50:46Z" finished-at="2020-07-30T17:50:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- provideData -->
-        <test-method status="PASS" signature="beforeClassRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="beforeClassRun" is-config="true" duration-ms="3" started-at="2020-07-30T16:52:15Z" finished-at="2020-07-30T16:52:15Z">
+        <test-method status="PASS" signature="beforeClassRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="beforeClassRun" is-config="true" duration-ms="3" started-at="2020-07-30T17:50:46Z" finished-at="2020-07-30T17:50:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClassRun -->
-        <test-method status="PASS" signature="beforeMethodRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="beforeMethodRun" is-config="true" duration-ms="28440" started-at="2020-07-30T16:52:18Z" finished-at="2020-07-30T16:52:46Z">
+        <test-method status="PASS" signature="beforeMethodRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="beforeMethodRun" is-config="true" duration-ms="25840" started-at="2020-07-30T17:50:47Z" finished-at="2020-07-30T17:51:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodRun -->
-        <test-method status="PASS" signature="noBrokerValidations(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="noBrokerValidations" duration-ms="381470" started-at="2020-07-30T16:52:46Z" data-provider="fetchData" finished-at="2020-07-30T16:59:07Z">
+        <test-method status="PASS" signature="noBrokerValidations(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="noBrokerValidations" duration-ms="366114" started-at="2020-07-30T17:51:13Z" data-provider="fetchData" finished-at="2020-07-30T17:57:19Z">
           <params>
             <param index="0">
               <value>
@@ -54,11 +54,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- noBrokerValidations -->
-        <test-method status="PASS" signature="afterMethodRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="afterMethodRun" is-config="true" duration-ms="571" started-at="2020-07-30T16:59:07Z" finished-at="2020-07-30T16:59:08Z">
+        <test-method status="PASS" signature="afterMethodRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="afterMethodRun" is-config="true" duration-ms="214" started-at="2020-07-30T17:57:19Z" finished-at="2020-07-30T17:57:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethodRun -->
-        <test-method status="PASS" signature="afterSuiteRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="afterSuiteRun" is-config="true" duration-ms="1085" started-at="2020-07-30T16:59:08Z" finished-at="2020-07-30T16:59:09Z">
+        <test-method status="PASS" signature="afterSuiteRun()[pri:0, instance:org.task.testcases.NoBrokerApplicationTask@6c3152]" name="afterSuiteRun" is-config="true" duration-ms="833" started-at="2020-07-30T17:57:21Z" finished-at="2020-07-30T17:57:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuiteRun -->

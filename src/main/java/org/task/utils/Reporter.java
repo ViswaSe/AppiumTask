@@ -21,7 +21,7 @@ public abstract class Reporter {
 		html = new ExtentHtmlReporter("./reports/result.html");
 		html.config().setChartVisibilityOnOpen(true);
 		html.config().setDocumentTitle("Appium Framework");
-		html.setAppendExisting(true);
+		html.setAppendExisting(false);
 		extent = new ExtentReports();
 		extent.attachReporter(html);
 	}
